@@ -1,4 +1,10 @@
-### Hi there 👋
+# Welcome to my github
+# I'm a front-end developer from the 🏖️ 🥥 North-east 🌴 🌊 of Brazil 🇧🇷
+# By now I'm working with HTML CSS and Javascript
+# Check out my profile page to take a look at my projects:
+https://caio-argolo.github.io/tmp_profile/
+# You can contact me by:
+# caiosuzart@gmail.com
 
 <!--
 **caio-argolo/caio-argolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
